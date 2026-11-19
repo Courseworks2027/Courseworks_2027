@@ -7,7 +7,7 @@
 | Команда | Тема | Ветвь | Участники |
 |---------|------|-------|-----------|
 | 1 | Тема курсовой №1 | [`team-01`](../../tree/team-01) | @M4G1C19, @Vanya384 |
-| 2 | Тема курсовой №2 | [`team-02`](../../tree/team-02) | @WatermelonArchon, @din-din02 |
+| 2 | Home Secretary Dashboard | [`Burgundy`](../../tree/Burgundy) | @WatermelonArchon, @din-din02 |
 | 3 | Тема курсовой №3 | [`team-03`](../../tree/team-03) | @Sofia-codesdev, @BellyTheFairy, @RypkaKoi |
 | 4 | Тема курсовой №4 | [`team-04`](../../tree/team-04) | @funikulor61, @fashionangel, @unknown5325 |
 | 5 | Тема курсовой №5 | [`team-05`](../../tree/team-05) | @daizzyls, @user6 |
